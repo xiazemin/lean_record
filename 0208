@@ -29,3 +29,12 @@ https://www.w3cschool.cn/cloudbasehosting/cloudbasehosting-dfvl38bn.html
 channelz
 https://grpc.io/blog/a-short-introduction-to-channelz/
 https://www.cnblogs.com/a00ium/p/14158585.html
+
+
+
+grpc
+https://github.com/grpc/grpc-go/blob/master/Documentation/server-reflection-tutorial.md#grpc-cli
+https://github.com/fullstorydev/grpcurl
+
+https://www.cnblogs.com/mathli/p/9984496.html
+https://www.servicemesher.com/blog/envoy-xds-protocol/
