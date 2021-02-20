@@ -27,3 +27,5 @@ https://www.sysleaf.com/go-hot-reload/
 ulimit -n 10000
 https://github.com/cespare/reflex/issues/6
  reflex -r '(\.go$|go\.mod)' -s go run main.go serve
+
+https://www.cnblogs.com/Detector/p/9769840.html
