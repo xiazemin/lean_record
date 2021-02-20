@@ -22,3 +22,8 @@ https://github.com/cosmtrek/air
 https://medium.com/easyread/today-i-learned-golang-live-reload-for-development-using-docker-compose-air-ecc688ee076
 https://github.com/cespare/reflex
 https://www.sysleaf.com/go-hot-reload/
+
+
+ulimit -n 10000
+https://github.com/cespare/reflex/issues/6
+ reflex -r '(\.go$|go\.mod)' -s go run main.go serve
