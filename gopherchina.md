@@ -82,3 +82,33 @@ g signal栈
 
 sigurg
 
+
+allg只增不减
+map  有指针 扫描25  30％
+容器内看到的是宿主机cpu
+lxcfs
+cfs调度周期
+
+cpu使用率打分
+xds协议
+macvlan
+
+有状态网络存储
+健康检查端口readyness
+kind本地开发测试
+kites
+x
+500m
+niobio
+
+Lt  redis单线程轮询
+ET并行模型
+
+rawsystemcall
+单连续多路复用grocery  rpcx
+
+iouring
+using.cqe
+
+hertz
+oam
